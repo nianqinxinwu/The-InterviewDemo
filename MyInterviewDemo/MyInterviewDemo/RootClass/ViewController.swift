@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let tool = MIStringFlippingTool.init()
+        let testStr = tool.reverseWords(s: "new word should be speaking")
+        print("reslut:",testStr!)
     }
 
 

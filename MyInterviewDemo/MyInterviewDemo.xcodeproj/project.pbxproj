@@ -52,7 +52,6 @@
 				8A51EB8479887F3409BD7F4A /* Pods-MyInterviewDemo.debug.xcconfig */,
 				F2473DD1DB54B3C74D41D235 /* Pods-MyInterviewDemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -396,7 +395,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lingfeng.SwiftCode.swift.MyInterviewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -415,7 +414,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lingfeng.SwiftCode.swift.MyInterviewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
